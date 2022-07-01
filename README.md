@@ -1,3 +1,5 @@
 # odin-recepies
 
-Nå er jeg er vanvittig god koder!
+This is not much, but Im so fucking proud of myself for being able to make this simple website! 
+
+:)
